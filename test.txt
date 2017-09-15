@@ -1,0 +1,1 @@
+Test of commiting for a nested root repository
